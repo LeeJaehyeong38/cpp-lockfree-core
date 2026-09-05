@@ -1,0 +1,21 @@
+# Visual Studio / MSBuild 빌드 산출물
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.ilk
+*.pdb
+*.exe
+*.log
+
+# 프로젝트 사용자별 설정 (개인 IDE 상태, 공유 불필요)
+*.vcxproj.user
+.idea/
+
+# Rider/기타 IDE 캐시
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
